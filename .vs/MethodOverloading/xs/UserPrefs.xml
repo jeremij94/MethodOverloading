@@ -2,22 +2,19 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MethodOverloading PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MethodOverloading PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MethodOverloading/Program.cs">
     <Files>
-      <File FileName="MethodOverloading/Program.cs" Line="9" Column="25" />
-      <File FileName="MethodOverloading/MethodOverloadAdd.cs" Line="25" Column="42" />
+      <File FileName="MethodOverloading/Program.cs" Line="13" Column="10" />
+      <File FileName="MethodOverloading/MethodOverloadAdd.cs" Line="22" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MethodOverloading" expanded="True">
-            <Node name="MethodOverloading" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="MethodOverloading" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -26,4 +23,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

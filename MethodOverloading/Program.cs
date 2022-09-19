@@ -7,8 +7,8 @@
 //You must also account for the appropriate grammar of the string - so it can’t be “1 dollars”
 
 using MethodOverloading;
-
-    var answer = MethodOverloadAdd.Add(23,64);
+// type "true" as a third parameter in the Add method for an integer in dollars.
+    var answer = MethodOverloadAdd.Add(23,64, true);
 Console.WriteLine(answer);
 Console.ReadLine();
 

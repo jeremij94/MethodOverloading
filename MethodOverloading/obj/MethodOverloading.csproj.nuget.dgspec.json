@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeremijackson/Projects/MethodOverloading/MethodOverloading/MethodOverloading.csproj": {}
+    "/Users/jeremijackson/Desktop/Repos/MethodOverloading/MethodOverloading/MethodOverloading.csproj": {}
   },
   "projects": {
-    "/Users/jeremijackson/Projects/MethodOverloading/MethodOverloading/MethodOverloading.csproj": {
+    "/Users/jeremijackson/Desktop/Repos/MethodOverloading/MethodOverloading/MethodOverloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeremijackson/Projects/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
+        "projectUniqueName": "/Users/jeremijackson/Desktop/Repos/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
         "projectName": "MethodOverloading",
-        "projectPath": "/Users/jeremijackson/Projects/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
+        "projectPath": "/Users/jeremijackson/Desktop/Repos/MethodOverloading/MethodOverloading/MethodOverloading.csproj",
         "packagesPath": "/Users/jeremijackson/.nuget/packages/",
-        "outputPath": "/Users/jeremijackson/Projects/MethodOverloading/MethodOverloading/obj/",
+        "outputPath": "/Users/jeremijackson/Desktop/Repos/MethodOverloading/MethodOverloading/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeremijackson/.nuget/NuGet/NuGet.Config"
